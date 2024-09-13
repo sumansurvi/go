@@ -1,0 +1,7 @@
+package switchCase
+
+import("fmt")
+
+func switchCase(){
+	
+}
